@@ -1,7 +1,7 @@
 # Ejercicios Sofia Alvarez
 Fundamentos de Python:
 
- A continuación encontrara ejercicios hechos con el lenguaje de Python lo cuales fueron creados desde reptil, Los ejercicios son:
+ A continuación encontrara ejercicios hechos con el lenguaje de Python lo cuales fueron creados desde replit, Los ejercicios son:
  
 1.área de un triángulo. 
 
